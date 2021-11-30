@@ -1,0 +1,2 @@
+# NewsRat
+Get Latest News
